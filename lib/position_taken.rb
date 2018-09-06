@@ -12,4 +12,4 @@ def position_taken? (board,index)
 end
 
 
-position_taken?(["", " ", " ", " ", " ", " ", " ", " ", " "], 0)
+position_taken?([nil, " ", " ", " ", " ", " ", " ", " ", " "], 0)
